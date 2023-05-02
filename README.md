@@ -19,8 +19,8 @@ Today, I'm excited to showcase how you can create your very own virtual machine 
 
 <h2>Environments Used </h2>
 
- <b>Windows 11 Pro</b> 
-
+ <b>Windows 11 </b> <p>
+ <b>Hyper-V</b></p>
 <h2>Program walk-through:</h2>
 
 <p align="center">
