@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/OFMboaL.jpg" height="60%" width="60%" alt="Raid Array logo"/>
+ <img src="https://i.imgur.com/fq5q8Bk.jpg" height="60%" width="60%" alt="Virtual Machines Logo/>
 </p>
 
 <h1>Create a Virtual Machine with Hyper-V</h1>
