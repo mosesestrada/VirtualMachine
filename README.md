@@ -13,7 +13,7 @@ Virtual machines allow you to create and run multiple virtual environments on a 
 
 And the possibilities are endless! Virtual machines are widely used for testing new software, running legacy applications, and creating secure sandboxed environments for various purposes.
 
-Today, we're excited to showcase how you can create your very own virtual machine using Hyper-V.
+Today, I'm excited to showcase how you can create your very own virtual machine using Hyper-V.
 
 <br />
 
@@ -32,12 +32,12 @@ In the search field, type Hyper-V.Find and select Hyper-V Manager.
 <img src="https://i.imgur.com/XNaJ8pL.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
-Expand Hyper-V maanger and hostname. In this example our hostname is ITAdmin so we will right-click on ITAdmin and select new > Virtual Machine. See example below on how it's supposed to look like.
+Expand Hyper-V maanger and hostname. In this example our hostname is ITAdmin so we will right-click on ITAdmin and select new > Virtual Machine. See example below on how it's supposed to look like. Click next.
  <br/>
 <img src="https://i.imgur.com/pnwGZ5d.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
-Name your Virtual Machine. We're keeping it simple today so we will name our Virtual Machine, VM1.
+Name your Virtual Machine. We're keeping it simple today so we will name our Virtual Machine, VM1. Click next.
  <br/>
 <img src="https://i.imgur.com/ouISQIg.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
@@ -48,28 +48,28 @@ We will accept the defaults of "generation 1" for this lesson. Click next to con
 <img src="https://i.imgur.com/iwAghrg.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
-We will be assigning 1024MB of memory for our VM.
+We will be assigning 1024MB of memory for our VM. Click next.
 <br/>
 <img src="https://i.imgur.com/rPlvFvu.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
-We want our VM to be able to communicate outside of our nextwork so we will set our network adapter to "External"
+We want our VM to be able to communicate outside of our nextwork so we will set our network adapter to "External". Click next.
 
  <br/>
 <img src="https://i.imgur.com/aXivyPH.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
-Set your virtual hard disk properties to match my prompt or set your own values.
+Set your virtual hard disk properties to match my prompt or set your own values then click next.
  <br/>
 <img src="https://i.imgur.com/Ah7NZfx.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
-We will install operating system at a later date. If you have a bootable ISO this is where you would set it up.
+We will install operating system at a later date. If you have a bootable ISO this is where you would set it up. Click next.
  <br/>
 <img src="https://i.imgur.com/Uz83nYj.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
-That's it, we're done! Simple, right? Click finished <br/>
+That's it, we're done! Simple, right? Click finished. <br/>
 <img src="https://i.imgur.com/hmKnSZM.png" height="60%" width="60%" alt="Add a VM"/>
 <br />
 <br />
