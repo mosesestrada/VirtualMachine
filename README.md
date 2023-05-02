@@ -29,53 +29,52 @@ In the search field, type Hyper-V.Find and select Hyper-V Manager.
 
 
 <br/>
-<img src="https://i.imgur.com/XNaJ8pL.png" height="80%" width="80%" alt="Adduser"/>
+<img src="https://i.imgur.com/XNaJ8pL.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
 Expand Hyper-V maanger and hostname. In this example our hostname is ITAdmin so we will right-click on ITAdmin and select new > Virtual Machine. See example below on how it's supposed to look like.
  <br/>
-<img src="https://i.imgur.com/pnwGZ5d.png" height="80%" width="80%" alt="Adduser"/>
-<br />
-<br />
-Expand your domain controller folder which in this case is CorpNet.xyz and for this user we will be adding him to Sales>Users OU.
-To do this Highlight "users" under Sales, right click > new> user. Follow the arrows I have posted in the picture below.
- <br/>
-<img src="https://i.imgur.com/tcT2KPW.png" height="80%" width="80%" alt="Adduser"/>
+<img src="https://i.imgur.com/pnwGZ5d.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
 Name your Virtual Machine. We're keeping it simple today so we will name our Virtual Machine, VM1.
+ <br/>
+<img src="https://i.imgur.com/ouISQIg.png" height="80%" width="80%" alt="Add a VM"/>
+<br />
+<br />
+We will accept the defaults of "generation 1" for this lesson. Click next to continue.
 
  <br/>
-<img src="https://i.imgur.com/ouISQIg.png" height="80%" width="80%" alt="Adduser"/>
+<img src="https://i.imgur.com/iwAghrg.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
-Add a password for your user and click next.
+We will be assigning 1024MB of memory for our VM.
 <br/>
-<img src="https://i.imgur.com/gwKXMTm.png" height="80%" width="80%" alt="Adduser"/>
+<img src="https://i.imgur.com/rPlvFvu.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
-Click finished.
+We want our VM to be able to communicate outside of our nextwork so we will set our network adapter to "External"
 
  <br/>
-<img src="https://i.imgur.com/xz1ElLI.png" height="80%" width="80%" alt="Adduser"/>
+<img src="https://i.imgur.com/aXivyPH.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
-Now to configure thier logon hours. Right click  the user and select properties.
+Set your virtual hard disk properties to match my prompt or set your own values.
  <br/>
-<img src="https://i.imgur.com/SXHpnbX.png" height="80%" width="80%" alt="Adduser"/>
+<img src="https://i.imgur.com/Ah7NZfx.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
-Here you can adjust the user's logon hours. The blue bars are the hours the user can operate his workstation. 
+We will install operating system at a later date. If you have a bootable ISO this is where you would set it up.
  <br/>
-<img src="https://i.imgur.com/AdulRWU.png" height="80%" width="80%" alt="Adduser"/>
+<img src="https://i.imgur.com/Uz83nYj.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
-That's it, we're done! Simple, right? <br/>
-<img src="https://i.imgur.com/9cuTjD2.png" height="60%" width="60%" alt="Adduser"/>
+That's it, we're done! Simple, right? Click finished <br/>
+<img src="https://i.imgur.com/hmKnSZM.png" height="60%" width="60%" alt="Add a VM"/>
 <br />
 <br />
 Hope you enjoyed this demonstration. <br/>
-<img src="https://i.imgur.com/3gMbo9H.jpg" height="60%" width="60%" alt="Adduser"/>
+<img src="https://i.imgur.com/j9c7ivR.png" height="60%" width="60%" alt="Add a VM"/>
 <br />
 <br />
 
