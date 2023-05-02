@@ -32,7 +32,7 @@ In the search field, type Hyper-V. Find and select Hyper-V Manager.
 <img src="https://i.imgur.com/XNaJ8pL.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
-Expand Hyper-V maanger and hostname. In this example our hostname is ITAdmin so we will right-click on ITAdmin and select new > Virtual Machine. See example below on how it's supposed to look like. Click next.
+Expand Hyper-V maanger and hostname. In this example our hostname is ITAdmin so we will right-click on ITAdmin and select new > Virtual Machine. See example below on how it's supposed to look like.
  <br/>
 <img src="https://i.imgur.com/pnwGZ5d.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
