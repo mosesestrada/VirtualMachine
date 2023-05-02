@@ -1,8 +1,8 @@
 <p align="center">
- <img src="https://i.imgur.com/fq5q8Bk.jpg" height="60%" width="60%" alt="Virtual Machines Logo/>
+ <img src="https://i.imgur.com/fq5q8Bk.jpg" height="60%" width="60%" alt="VM logo"/>
 </p>
 
-<h1>Create a Virtual Machine with Hyper-V</h1>
+<h1>Creating a Virtual Machine in Hyper-V</h1>
 
 
 <h2>Description</h2>
