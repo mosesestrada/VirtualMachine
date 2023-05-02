@@ -74,7 +74,7 @@ That's it, we're done! Simple, right? Click finished. <br/>
 <br />
 <br />
 Hope you enjoyed this demonstration. <br/>
-<img src="https://i.imgur.com/QaDmSXg.jpg" height="60%" width="60%" alt="Add a VM"/>
+<img src="https://i.imgur.com/Bv0i9oE.jpg" height="60%" width="60%" alt="Add a VM"/>
 <br />
 <br />
 
