@@ -24,18 +24,17 @@ Today, we're excited to showcase how you can create your very own virtual machin
 <h2>Program walk-through:</h2>
 
 <p align="center">
-For this demonstration we already have our virtual machines and domain controller set up. 
-From the left pane of Hyper-V Manager, select CORPSERVER. From the Virtual Machines pane, right-click CorpDC and then select Connect.
+From the taskbar, select Start.
+In the search field, type Hyper-V.Find and select Hyper-V Manager.
 
 
 <br/>
-<img src="https://i.imgur.com/EWVN4H0.png" height="80%" width="80%" alt="Adduser"/>
+<img src="https://i.imgur.com/XNaJ8pL.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
-From Server Manager's menu bar, select Tools then select Active Directory Users and Computers.
-Select Next.
+Expand Hyper-V maanger and hostname. In this example our hostname is ITAdmin so we will right-click on ITAdmin and select new > Virtual Machine. See example below on how it's supposed to look like.
  <br/>
-<img src="https://i.imgur.com/SJRqx6y.png" height="80%" width="80%" alt="Adduser"/>
+<img src="https://i.imgur.com/pnwGZ5d.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
 Expand your domain controller folder which in this case is CorpNet.xyz and for this user we will be adding him to Sales>Users OU.
@@ -44,10 +43,10 @@ To do this Highlight "users" under Sales, right click > new> user. Follow the ar
 <img src="https://i.imgur.com/tcT2KPW.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
-Enter first and Last name. The Logon name is the what the user will use to logon to the domain.
+Name your Virtual Machine. We're keeping it simple today so we will name our Virtual Machine, VM1.
 
  <br/>
-<img src="https://i.imgur.com/EAIC4m4.png" height="80%" width="80%" alt="Adduser"/>
+<img src="https://i.imgur.com/ouISQIg.png" height="80%" width="80%" alt="Adduser"/>
 <br />
 <br />
 Add a password for your user and click next.
