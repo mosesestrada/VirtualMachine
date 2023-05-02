@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/fq5q8Bk.jpg" height="60%" width="60%" alt="VM logo"/>
+ <img src="https://i.imgur.com/fq5q8Bk.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>Creating a Virtual Machine in Hyper-V</h1>
@@ -74,7 +74,7 @@ That's it, we're done! Simple, right? Click finished. <br/>
 <br />
 <br />
 Hope you enjoyed this demonstration. <br/>
-<img src="https://i.imgur.com/Bv0i9oE.jpg" height="60%" width="60%" alt="Add a VM"/>
+<img src="https://i.imgur.com/Bv0i9oE.jpg" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
 
