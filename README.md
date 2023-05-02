@@ -25,7 +25,7 @@ Today, I'm excited to showcase how you can create your very own virtual machine 
 
 <p align="center">
 From the taskbar, select Start.
-In the search field, type Hyper-V.Find and select Hyper-V Manager.
+In the search field, type Hyper-V. Find and select Hyper-V Manager.
 
 
 <br/>
