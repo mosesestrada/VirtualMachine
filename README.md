@@ -53,7 +53,7 @@ We will be assigning 1024MB of memory for our VM. Click next.
 <img src="https://i.imgur.com/rPlvFvu.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
-We want our VM to be able to communicate outside of our nextwork so we will set our network adapter to "External". Click next.
+We want our VM to be able to communicate with other virtual machines and be able to co communicate outside of our nextwork as well so we will set our network adapter to "External". Click next.
 
  <br/>
 <img src="https://i.imgur.com/aXivyPH.png" height="80%" width="80%" alt="Add a VM"/>
