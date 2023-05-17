@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.imgur.com/fq5q8Bk.jpg" height="80%" width="80%" alt="VM logo"/>
+ <img src="https://i.imgur.com/URf7txN.jpg" height="80%" width="80%" alt="VM logo"/>
 </p>
 
 <h1>Creating a Virtual Machine in Hyper-V</h1>
@@ -29,52 +29,52 @@ In the search field, type Hyper-V. Find and select Hyper-V Manager.
 
 
 <br/>
-<img src="https://i.imgur.com/XNaJ8pL.png" height="80%" width="80%" alt="Add a VM"/>
+<img src="https://i.imgur.com/D2juf0T.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
 Expand Hyper-V manger and look for the Hyper-V host server. In this example our host is ITAdmin so we will right-click on ITAdmin and select new > Virtual Machine. See example below on how it's supposed to look like.
  <br/>
-<img src="https://i.imgur.com/pnwGZ5d.png" height="80%" width="80%" alt="Add a VM"/>
+<img src="https://i.imgur.com/7aHxSNR.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
 Name your Virtual Machine. We're keeping it simple today so we will name our Virtual Machine, VM1. Click next.
  <br/>
-<img src="https://i.imgur.com/ouISQIg.png" height="80%" width="80%" alt="Add a VM"/>
+<img src="https://i.imgur.com/j4X6CxW.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
 We will accept the defaults of "generation 1" for this lesson. Click next to continue.
 
  <br/>
-<img src="https://i.imgur.com/iwAghrg.png" height="80%" width="80%" alt="Add a VM"/>
+<img src="https://i.imgur.com/9xP1Sad.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
 We will be assigning 1024MB of memory for our VM. Click next.
 <br/>
-<img src="https://i.imgur.com/rPlvFvu.png" height="80%" width="80%" alt="Add a VM"/>
+<img src="https://i.imgur.com/wjGqYGD.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
 We want our VM to be able to communicate with other virtual machines and be able to co communicate outside of our nextwork as well so we will set our network adapter to "External". Click next.
 
  <br/>
-<img src="https://i.imgur.com/aXivyPH.png" height="80%" width="80%" alt="Add a VM"/>
+<img src="https://i.imgur.com/TwFVAUV.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
 Set your virtual hard disk properties to match my prompt or set your own values then click next.
  <br/>
-<img src="https://i.imgur.com/Ah7NZfx.png" height="80%" width="80%" alt="Add a VM"/>
+<img src="https://i.imgur.com/nxoi5zM.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
 We will install operating system at a later date. If you have a bootable ISO this is where you would set it up. Click next.
  <br/>
-<img src="https://i.imgur.com/Uz83nYj.png" height="80%" width="80%" alt="Add a VM"/>
+<img src="https://i.imgur.com/LledC30.png" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
 That's it, we're done! Simple, right? Click finished. <br/>
-<img src="https://i.imgur.com/hmKnSZM.png" height="60%" width="60%" alt="Add a VM"/>
+<img src="https://i.imgur.com/nFcdUTk.png" height="60%" width="60%" alt="Add a VM"/>
 <br />
 <br />
 Hope you enjoyed this demonstration. <br/>
-<img src="https://i.imgur.com/Bv0i9oE.jpg" height="80%" width="80%" alt="Add a VM"/>
+<img src="https://i.imgur.com/8wHVar1.jpg" height="80%" width="80%" alt="Add a VM"/>
 <br />
 <br />
 
